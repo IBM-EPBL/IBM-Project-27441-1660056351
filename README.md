@@ -1,9 +1,10 @@
-#A Novel Method for Handwritten Digit Recognition System 
+# A Novel Method for Handwritten Digit Recognition System 
 
 IBM-Project-27441-1660056351
 
 Team Members : 👨‍💻
-Nivedha K
+
+Nivedha K 
 Madhumitha E
 Mahalakshmi T
 Manicka Raghavi B
